@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import './App.css'
 
 function App() {
 
@@ -71,14 +72,14 @@ function App() {
   return (
     <div>
       <div>
-      <h1>SeamlessMD Richard Huang Assignment</h1>
+      <h1 class="center">SeamlessMD Richard Huang Assignment</h1>
       </div>
       <div>
-        <h3>Total Patients: {num}</h3>
-        <h3>Average Age: {average}</h3>
+        <h3 class="center">Total Patients: {num}</h3>
+        <h3 class="center">Average Age: {average}</h3>
       </div>
       <div>
-        <table>
+        <table class="table">
           <thead>
           <tr>
             <th>Number</th>
