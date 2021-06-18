@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SeamlessMD/static/css/main.614eff62.chunk.css",
+    "main.js": "/SeamlessMD/static/js/main.5e900538.chunk.js",
+    "main.js.map": "/SeamlessMD/static/js/main.5e900538.chunk.js.map",
+    "runtime-main.js": "/SeamlessMD/static/js/runtime-main.a9a9c55b.js",
+    "runtime-main.js.map": "/SeamlessMD/static/js/runtime-main.a9a9c55b.js.map",
+    "static/js/2.d491ad65.chunk.js": "/SeamlessMD/static/js/2.d491ad65.chunk.js",
+    "static/js/2.d491ad65.chunk.js.map": "/SeamlessMD/static/js/2.d491ad65.chunk.js.map",
+    "static/js/3.f21a12cd.chunk.js": "/SeamlessMD/static/js/3.f21a12cd.chunk.js",
+    "static/js/3.f21a12cd.chunk.js.map": "/SeamlessMD/static/js/3.f21a12cd.chunk.js.map",
+    "index.html": "/SeamlessMD/index.html",
+    "static/css/main.614eff62.chunk.css.map": "/SeamlessMD/static/css/main.614eff62.chunk.css.map",
+    "static/js/2.d491ad65.chunk.js.LICENSE.txt": "/SeamlessMD/static/js/2.d491ad65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9a9c55b.js",
+    "static/js/2.d491ad65.chunk.js",
+    "static/css/main.614eff62.chunk.css",
+    "static/js/main.5e900538.chunk.js"
+  ]
+}
